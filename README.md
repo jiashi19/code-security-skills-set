@@ -17,6 +17,7 @@ Empower agents with robust static code scanning capabilities (e.g., invoking Cod
 * [trailofbits/skills](https://github.com/trailofbits/skills/tree/main/plugins/static-analysis) - Skills by Trail of Bits, it includes invoking CodeQL, Semgrep, and SARIF parsing.
 * [semgrep/skills](https://github.com/semgrep/skills) - Official Semgrep skills to run static analysis scans and create custom detection rules.
 * [EastSword/skill-dfyx_code_security_review](https://github.com/EastSword/skill-dfyx_code_security_review) - Comprehensive code auditing skill, highly accessible for Chinese community users. Designed based on a comprehensive case database and AI-powered reasoning capabilities.
+* [RuoJi6/java-audit-skills](https://github.com/RuoJi6/java-audit-skills) - Java audit skills collection.
 
 ## 2. AppSec & Vulnerability Discovery
 Assist security researchers and developers in finding logic flaws, injections, and credential leaks.

@@ -13,10 +13,11 @@
 * [综合技能集合](#5-综合技能集合)
 
 ## 1. SAST & 静态分析
-为 Agent 提供强大的静态代码扫描能力（如调用 CodeQL、Semgrep 等）。
+为 Agent 提供强大的静态代码扫描能力（包括调用 CodeQL、Semgrep 等）。
 * [trailofbits/skills](https://github.com/trailofbits/skills/tree/main/plugins/static-analysis) - Trail of Bits 出品，包含调用 CodeQL、Semgrep 以及 SARIF 解析的技能。
 * [semgrep/skills](https://github.com/semgrep/skills) - Semgrep 官方出品，运行 Semgrep 静态分析扫描并为安全漏洞和 Bug 模式创建自定义检测规则。
 * [EastSword/skill-dfyx_code_security_review](https://github.com/EastSword/skill-dfyx_code_security_review) - 面向中文社区的全面代码审计 skill，基于丰富的案例库和 AI 的推理能力设计。
+* [RuoJi6/java-audit-skills](https://github.com/RuoJi6/java-audit-skills) - Java 审计技能集合。
 
 ## 2. 应用安全 & 漏洞挖掘
 辅助安全研究员或开发人员在代码库中寻找注入、凭证泄露等逻辑漏洞。
