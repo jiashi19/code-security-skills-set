@@ -1,4 +1,0 @@
-interface:
-  display_name: "科研 Idea 推进与查新"
-  short_description: "发展科研想法，深读相近论文并判断实质贡献，避免草率否定或强行包装创新"
-  default_prompt: "请使用 $develop-research-ideas 帮我发展或检查这个科研 idea，深入比较最接近的工作，并给出有证据支持的贡献判断。"
